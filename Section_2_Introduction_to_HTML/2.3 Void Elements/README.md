@@ -35,7 +35,7 @@ elements that forbids any content inside them
 </tr>
 
 <tr>
-<td style="width: 50%;"><img src="./goal.png"></td>
+<td style="width: 70%;"><img src="./goal.png"></td>
 <td>
 
 ```html
