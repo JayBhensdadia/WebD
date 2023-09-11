@@ -49,13 +49,16 @@ elements that forbids any content inside them
 
 <hr/>
 
-<p>William Blake (28 November 1757 – 12 August 1827) was an English poet, painter, and printmaker. Largely unrecognised
+<p>William Blake (28 November 1757 – 12 August 1827) was an English poet, 
+    painter, and printmaker. Largely unrecognised
     during his life, Blake is now considered a..
     </p>
 
 
-<p>Although Blake was considered mad by contemporaries for his idiosyncratic views, he is held in high regard by later
-    critics for his expressiveness and creativity, and for the philosophical and mystical undercurrents within his work. His...
+<p>Although Blake was considered mad by contemporaries for his idiosyncratic views, 
+    he is held in high regard by later
+    critics for his expressiveness and creativity, and for 
+    the philosophical and mystical undercurrents within his work. His...
     </p>
 
 
