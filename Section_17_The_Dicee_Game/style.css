@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.dice{
+    display: flex;
+    gap: 20px;
+    font-size: 2rem;
+}
+
+.title{
+    font-size: 5rem;
+}
+
